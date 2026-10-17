@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNTF1R0hucWRtOHhPSFFyUWdDRWdQanB5NUNqa1pJRFBQdkduTXFBSVh2VC9SclFjbkEwTnZSdE01WWxoUHBnVmJBVWp0dVEvMFRFYVNBbm5malBFaCtTYkhyNHMrWlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU5NDYwCWZpbGU6UHJlbm90YXppb25lIENvbXBsZWFubmlfMS4wLjBfeDY0LXNldHVwLmV4ZQprNTZqYlpDMXBiUXNINWlqTWE5dEhSQXRKRUFpdHBuZWViWDVwbWNMQ3cvM2hyZkQrMlE4QkVmMllHTzd1SWxXT3o4S1dyTkhMSGhGam16d3BmUGRCdz09Cg==",
+                                             "url":  "https://github.com/PaoloViero/prenotazione-compleanni-releases/releases/download/v1.0.0/Prenotazione.Compleanni_1.0.0_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-10-17T17:52:09Z",
+    "version":  "1.0.0",
+    "notes":  "Prima versione: agenda delle feste di compleanno con calendario, pacchetti, data di nascita veloce con anni automatici, acconto e mail di conferma al cliente."
+}
